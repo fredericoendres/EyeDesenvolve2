@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">EyeDesenvolve</string>
     <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_relatorio">Relatorio</string>
+    <string name="title_busca">Busca</string>
+    <string name="ordenar_por_evento">Ordenar por evento</string>
+    <string name="ordenar_por_data">Ordenar por data</string>
+    <string name="ordenar_por_nome">Ordenar por nome</string>
 </resources>
