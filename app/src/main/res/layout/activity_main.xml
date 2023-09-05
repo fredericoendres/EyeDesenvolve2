@@ -30,7 +30,7 @@
         app:navGraph="@navigation/mobile_navigation" />
 
     <ImageView
-        android:id="@+id/addPessoa"
+        android:id="@+id/btnRegistro"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginEnd="16dp"
